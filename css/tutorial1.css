@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg') bottom center;
+  background: url('images/background.jpg') bottom center;
   background-size: cover;
 }
 
@@ -48,4 +48,18 @@ kbd {
   text-transform: uppercase;
   letter-spacing: .1rem;
   color: #ffc600;
+}
+
+.backbtn{
+  font-size: 10px;
+  font-family: "Roboto Light", sans-serif;
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 20px;
+  color: black;
+}
+
+.backbtn:hover{
+  transform: scale(1);
+  color: dimgrey;
 }
