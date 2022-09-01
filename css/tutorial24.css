@@ -106,3 +106,12 @@ nav a {
   transition: all 0.2s;
   text-transform: uppercase;
 }
+
+.backbtn{
+  font-size: 10px;
+  font-family: "Roboto Light", sans-serif;
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 20px;
+  color: black;
+}
